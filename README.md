@@ -10,3 +10,6 @@ Bitrix: курс контент-менеджера	https://dev.1c-bitrix.ru/lear
 
 Сделать шаблон компонента news.list  
 
+Login: Admin
+Password: 123123
+
