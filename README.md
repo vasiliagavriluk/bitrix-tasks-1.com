@@ -3,7 +3,7 @@ Bitrix: курс контент-менеджера	https://dev.1c-bitrix.ru/lear
 # Задачи:
 Сдать тесты в курсе контент-менеджера 
 
-![Alt text](../../../../d:/OSPanel/domains/bitrix-tasks-1.com/Task-1.jpg)
+![Alt text](Task-1.jpg)
 
 
 Установить битрикс и начать разбираться в админке  
