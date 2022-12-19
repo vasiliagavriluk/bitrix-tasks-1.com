@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/build/css/common.css" => "1671436997404376",]; ?>
