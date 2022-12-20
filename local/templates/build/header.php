@@ -11,7 +11,7 @@ use Bitrix\Main\Page\Asset;
     <meta charset="utf-8">
     <link rel="shortcut icon" href="<?=SITE_TEMPLATE_PATH?>/favicon.ico" type="image/x-icon">
 
-    <?= Asset::getInstance()->addCss( SITE_TEMPLATE_PATH.'/css/common.css');?>
+    <?= Asset::getInstance()->addCss(SITE_TEMPLATE_PATH.'/css/common.css');?>
 
 </head>
 <body>
