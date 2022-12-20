@@ -2,7 +2,6 @@
 define("BX_USE_MYSQLI", true);
 $DBDebug = false;
 $DBDebugToFile = false;
-define("MYSQL_TABLE_TYPE", "INNODB");
 
 define("CACHED_b_file", 3600);
 define("CACHED_b_file_bucket_size", 10);
